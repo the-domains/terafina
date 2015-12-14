@@ -1,22 +1,31 @@
 ---
-title: Getting Started on The Grid
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+starred: false
+keywords: []
 description: Click the pencil icon in the bottom left to read more...
+datePublished: '2015-12-14T23:42:15.238Z'
+dateModified: '2015-12-14T23:40:47.644Z'
+title: Terafina - The Future of Omni Channel Platforms
 author: []
-datePublished: '2015-12-14T23:29:33.964Z'
-dateModified: '2015-12-14T23:29:09.002Z'
 sourcePath: _posts/2015-12-14-getting-started-on-the-grid.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: getting-started-on-the-grid/index.html
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Getting Started on The Grid
+# Terafina - The Future of Omni Channel Platforms
 
-Welcome to The Grid Beta, we're excited to have you onboard! Here are a few quick tips to get you up and running. 
+Welcome to our blog bringing you some of the most interesting content happening in and around the financial services industry
 
 ## Creating a Site
 
