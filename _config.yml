@@ -1,7 +1,7 @@
 name: Terafina
 favicon: null
-layout_spectrum: 0.2845712301786989
-typography_spectrum: 0.8433404150418937
+layout_spectrum: 0.33826
+typography_spectrum: 0.73745
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.3948483064305037
-  lightness: 0.08115433319471776
+    - '#515d60'
+    - '#1c6c96'
+    - '#4dbcc8'
+    - '#404040'
+    - '#000000'
+  brandStrength: 0.5
+  lightness: 0.75
   saturation: 0.8953409825917333
-  rhythmicContrast: 0.5698201505001634
+  rhythmicContrast: 0.75
 purpose: []
