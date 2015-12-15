@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-15T02:51:21.736Z'
-dateModified: '2015-12-15T02:51:06.430Z'
+datePublished: '2015-12-15T22:43:29.787Z'
+dateModified: '2015-12-15T02:49:35.403Z'
 title: A Sneak Preview of Our New Demonstration Video
 author: []
 authors: []
@@ -23,5 +23,3 @@ _type: Article
 
 ---
 # A Sneak Preview of Our New Demonstration Video
-
-https://app.frame.io/v/0vHEkXAa
