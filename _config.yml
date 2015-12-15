@@ -1,7 +1,7 @@
 name: Terafina
 favicon: null
-layout_spectrum: 0.40492
-typography_spectrum: 0.73745
+layout_spectrum: 1
+typography_spectrum: 1
 title: 'Terafina Blog '
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#4dbcc8'
     - '#404040'
     - '#000000'
-  brandStrength: 1
+  brandStrength: 0.75
   lightness: 0.75
-  saturation: 0.8953409825917333
+  saturation: 0.75
   rhythmicContrast: 0.75
 purpose: []
