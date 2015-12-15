@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Terafina]]></title>
-        <description><![CDATA[Terafina]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Terafina Blog ]]></title>
+        <description><![CDATA[Terafina Blog ]]></description>
+        <link>https://thegrid.ai/terafina/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 23:50:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 02:51:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/terafina/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Sneak Preview of Our New Demonstration Video]]></title>
+            <description><![CDATA[<article><h1>A Sneak Preview of Our New Demonstration Video</h1><p>https://app.frame.io/v/0vHEkXAa</p></article>]]></description>
+            <link>https://thegrid.ai/terafina/a-sneak-preview-of-our-new-demonstration-video/index.html</link>
+            <guid isPermaLink="false">cb250781-1db1-44ae-baf1-6b7b6d940641</guid>
+            <pubDate>Tue, 15 Dec 2015 02:51:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://thefinancialbrand.com/wp-content/uploads/2015/03/edelman_chart-565x667.png">]]></description>
