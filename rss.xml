@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Omni Channel]]></title>
         <description><![CDATA[Omni Channel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/terafina/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 04:54:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Dec 2015 22:58:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/terafina/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Great mention of our client]]></title>
+            <description><![CDATA[<article><h1>Great mention of our client</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90a822d65ff06a03cbd8a8f248a5073b84f5e22a.jpg"></article>]]></description>
+            <link>http://thefinancialbrand.com/11816/first-tech-gets-even-more-squirrely/</link>
+            <guid isPermaLink="false">7189c39f-cda2-4b66-a855-8ac933cee006</guid>
+            <pubDate>Fri, 18 Dec 2015 22:58:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Great Image Depicting all of the Components of an Omni Channel Environment]]></title>
             <description><![CDATA[<article><h1>Great Image Depicting all of the Components of an Omni Channel Environment</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e6f567bae42aea0f0feb3df1d649045561de260.png"></article>]]></description>
