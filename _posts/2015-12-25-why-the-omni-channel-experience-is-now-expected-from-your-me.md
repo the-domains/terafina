@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/125758580'
+inLanguage: null
+starred: false
+keywords: []
+description: "This is \"Why the Omni Channel Experience is Now Expected from Your Members -- with Terafina's Boris Grinshpun...\" by on Vimeo, the home for high..."
+datePublished: '2015-12-25T22:44:54.318Z'
+dateModified: '2015-12-25T22:44:46.577Z'
 author:
   - name: CUbroadcast
     url: 'http://vimeo.com/user5126093'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: "This is \"Why the Omni Channel Experience is Now Expected from Your Members -- with Terafina's Boris Grinshpun...\" by on Vimeo, the home for high..."
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/125758580'
     type: ios
@@ -21,15 +24,15 @@ app_links:
     type: web
     app_name: Vimeo
     package: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/125758580'
 title: "Why the Omni Channel Experience is Now Expected from Your Members -- with Terafina's Boris Grinshpun..."
-datePublished: '2015-12-25T22:43:02.353Z'
-dateModified: '2015-12-25T22:42:23.965Z'
 sourcePath: _posts/2015-12-25-why-the-omni-channel-experience-is-now-expected-from-your-me.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
