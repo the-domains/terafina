@@ -4,7 +4,7 @@
         <description><![CDATA[Omni Channel]]></description>
         <link>https://thegrid.ai/terafina/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Dec 2015 22:09:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Dec 2015 22:09:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/terafina/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Omni Channel Delivery]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/terafina/omni-channel-delivery/index.html</link>
             <guid isPermaLink="false">de332535-f186-432d-ab8b-480f90268ccd</guid>
             <pubDate>Fri, 25 Dec 2015 22:08:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Great Image Depicting all of the Components of an Omni Channel Environment]]></title>
-            <description><![CDATA[<article><h1>Great Image Depicting all of the Components of an Omni Channel Environment</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e6f567bae42aea0f0feb3df1d649045561de260.png"></article>]]></description>
-            <link>http://blog.hubspot.com/marketing/omni-channel-user-experience-examples</link>
-            <guid isPermaLink="false">8d658406-8c05-448f-96e9-c24625ceac64</guid>
-            <pubDate>Wed, 16 Dec 2015 04:54:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
