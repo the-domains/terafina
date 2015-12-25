@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-12-25T22:15:54.958Z'
-dateModified: '2015-12-25T22:15:48.125Z'
+datePublished: '2015-12-25T22:25:58.347Z'
+dateModified: '2015-12-25T22:25:13.314Z'
 title: Terafina - The Future of Omni Channel Platforms
 author: []
 sourcePath: _posts/2015-12-14-getting-started-on-the-grid.md
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-Terafina - The Future of Omni Channel Platforms
+# Terafina - The Future of Omni Channel Platforms
 
 Welcome to our blog bringing you some of the most interesting content happening in and around the financial services industry
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4d98e54-a607-4161-b2c1-bbe4fb93421a.png)
