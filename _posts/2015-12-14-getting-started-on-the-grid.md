@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-12-25T22:53:24.302Z'
-dateModified: '2015-12-25T22:53:15.646Z'
+datePublished: '2015-12-25T23:18:57.090Z'
+dateModified: '2015-12-25T23:18:46.814Z'
 title: Terafina - The Future of Omni Channel Platforms
 author: []
 sourcePath: _posts/2015-12-14-getting-started-on-the-grid.md
@@ -19,6 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: terafina-the-future-of-omni-channel-platforms/index.html
 _context: 'http://schema.org'
 _type: Article
 
