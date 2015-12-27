@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/125758580'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "This is \"Why the Omni Channel Experience is Now Expected from Your Members -- with Terafina's Boris Grinshpun...\" by on Vimeo, the home for high..."
-datePublished: '2015-12-25T22:44:54.318Z'
-dateModified: '2015-12-25T22:44:46.577Z'
+datePublished: '2015-12-27T06:33:59.663Z'
+dateModified: '2015-12-27T06:33:20.842Z'
 author:
   - name: CUbroadcast
     url: 'http://vimeo.com/user5126093'
