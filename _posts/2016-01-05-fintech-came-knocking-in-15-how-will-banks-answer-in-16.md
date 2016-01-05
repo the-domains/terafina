@@ -29,12 +29,12 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.americanbanker.com/news/bank-technology/fintech-came-knocking-in-15-how-will-banks-answer-in-16-1078618-1.html?pg=1'
 title: "Fintech Came Knocking in '15; How Will Banks Answer in '16?"
-datePublished: '2016-01-05T02:13:20.293Z'
-dateModified: '2016-01-05T02:13:10.671Z'
+datePublished: '2016-01-05T23:20:37.927Z'
+dateModified: '2016-01-05T23:19:57.763Z'
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 sourcePath: _posts/2016-01-05-fintech-came-knocking-in-15-how-will-banks-answer-in-16.md
 published: true
