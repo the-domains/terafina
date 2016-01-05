@@ -4,8 +4,15 @@
         <description><![CDATA[Omni Channel]]></description>
         <link>https://thegrid.ai/terafina/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 23:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 23:18:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/terafina/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is this really the future of the bank branch?]]></title>
+            <description><![CDATA[<article><h1>Is this really the future of the bank branch?</h1><p>As digital banking continues to grow with banking customers, customer traffic in bank branches has drastically reduced. In fact, 94% of consumers under 35-years-old bank online, according to First Data's report, The Unbanked Generation. The problem has grown so overwhelming that it has become the biggest concern branch banking is facing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edcae7caff615282226387f1ce4fff00ef27eae4.jpg"></article>]]></description>
+            <link>https://alexrjimenez.wordpress.com/2015/12/30/is-this-really-the-future-of-the-bank-branch/</link>
+            <guid isPermaLink="false">9980b8e0-4daa-4ad7-b015-ca8e4cdec223</guid>
+            <pubDate>Tue, 05 Jan 2016 23:18:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fintech Came Knocking in '15; How Will Banks Answer in '16?]]></title>
             <description><![CDATA[<article><h1>Fintech Came Knocking in '15; How Will Banks Answer in '16?</h1><p>Last year the banking industry woke up to the reality that nimbler, more innovative technologies and entrepreneurs were looking to replace it. Now that bankers are fully aware of the challenge, 2016 is their chance to act.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0cd50f9a8a047e94e9b68d1a16e52f01cf9a773.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/terafina/terafina-the-future-of-omni-channel-platforms/index.html</link>
             <guid isPermaLink="false">1fa3177a-9d4f-4a19-9aa2-e7fad7b0f323</guid>
             <pubDate>Fri, 25 Dec 2015 23:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is this really the future of the bank branch?]]></title>
-            <description><![CDATA[<article><h1>Is this really the future of the bank branch?</h1><p>As digital banking continues to grow with banking customers, customer traffic in bank branches has drastically reduced. In fact, 94% of consumers under 35-years-old bank online, according to First Data's report, The Unbanked Generation. The problem has grown so overwhelming that it has become the biggest concern branch banking is facing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76669f99bc6eeba9e9a8cab78cbbe7210856790e.jpg"></article>]]></description>
-            <link>https://alexrjimenez.wordpress.com/2015/12/30/is-this-really-the-future-of-the-bank-branch/</link>
-            <guid isPermaLink="false">9980b8e0-4daa-4ad7-b015-ca8e4cdec223</guid>
-            <pubDate>Tue, 05 Jan 2016 23:17:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
