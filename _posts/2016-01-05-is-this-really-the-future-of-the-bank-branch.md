@@ -32,12 +32,12 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://alexrjimenez.wordpress.com/2015/12/30/is-this-really-the-future-of-the-bank-branch/'
 title: Is this really the future of the bank branch?
-datePublished: '2016-01-05T23:18:23.658Z'
-dateModified: '2016-01-05T23:18:16.282Z'
+datePublished: '2016-01-05T23:20:30.362Z'
+dateModified: '2016-01-05T23:19:51.795Z'
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 sourcePath: _posts/2016-01-05-is-this-really-the-future-of-the-bank-branch.md
 published: true
