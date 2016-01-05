@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Omni Channel Article by Tiffani Montez
-datePublished: '2015-12-27T06:33:43.893Z'
-dateModified: '2015-12-27T06:33:30.603Z'
+datePublished: '2016-01-05T23:21:00.137Z'
+dateModified: '2016-01-05T23:20:14.395Z'
 title: Omni Channel Delivery
 author: []
 sourcePath: _posts/2015-12-25-omni-channel-delivery.md
